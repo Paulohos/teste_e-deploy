@@ -1,0 +1,6 @@
+framework module Pods_PontuacaoDaCidadeTests {
+  umbrella header "Pods-PontuacaoDaCidadeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
